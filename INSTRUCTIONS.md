@@ -37,7 +37,7 @@ What the template already holds:
 ## Step 2 — The script
 
 1. Go to [script.google.com](https://script.google.com) → **New project**.
-2. Delete the sample code and paste in the **entire** contents of [`Code.gs`](Code.gs) from this repository (open the file, use the **Raw** view, copy all — copying raw text matters: copying code out of a document or chat can turn straight quotes into "smart quotes" and break the script).
+2. Delete the sample code and paste in the **entire** contents of [Code.gs](https://github.com/SilverWaveGL/webtop-homework-tracker/blob/main/Code.gs) — open the link, click **Raw**, and copy all of it. Copying the raw text matters: copying code out of a document or chat can turn straight quotes into "smart quotes" and break the script. (No need to download the repository — just that one file.)
 3. In the top two lines, replace the placeholders:
    - `SHEET_ID` — the long ID in your Sheet's URL, between `/d/` and `/edit`.
    - `SECRET` — any secret word you invent. Remember it; you'll need the exact same word in the shortcut.
